@@ -1,3 +1,2 @@
 # testing-url-connect-to-repl
-hehehhe
-sadad
+just a testing url for connecting to repl, github, and vs code.
